@@ -34,6 +34,7 @@
 		</Compiler>
 		<Unit filename="Base64.h" />
 		<Unit filename="helper.h" />
+		<Unit filename="io.h" />
 		<Unit filename="keyconst.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
